@@ -1,0 +1,139 @@
+.authBlock {
+  margin-top: -7%;
+}
+
+.authBlock article {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0 auto;
+  flex-direction: column;
+  margin-top: 2%;
+}
+
+.authBlock article main {
+  /* background: #fff; */
+  padding: 20px;
+  width: 900px;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  /* margin-top: 2%; */
+}
+
+.authBlock article header {
+  background: transparent;
+  padding: 10px 0px 30px;
+}
+.authBlock article header h1 {
+  color: #3484cc;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.authBlock article form label {
+  padding: 0px 0;
+  font-weight: bold;
+  width: 100%;
+  display: block;
+  color: black;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+
+.authBlock article form input {
+  padding: 10px;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.authBlock article form button {
+  /* background: #3484cc; */
+  /* width: 100%;
+ color: #fff;  */
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 3px;
+  font-size: 15px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  border: none;
+}
+.authBlock article form button:hover {
+  background: #555;
+  color: black
+}
+
+/* authblock1 */
+
+
+.authBlock1 {
+  margin-top: -7%;
+}
+
+.authBlock1 article {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0 auto;
+  flex-direction: column;
+  margin-top: 2%;
+}
+
+.authBlock1 article main {
+  /* background: #fff; */
+  padding: 20px;
+  width: 1300px;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  /* margin-top: 2%; */
+}
+
+.authBlock1 article header {
+  background: transparent;
+  padding: 10px 0px 30px;
+}
+.authBlock1 article header h1 {
+  color: #3484cc;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.authBlock1 article form label {
+  padding: 0px 0;
+  font-weight: bold;
+  width: 100%;
+  display: block;
+  color: black;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+
+.authBlock1 article form input {
+  padding: 10px;
+  /* width: 100%; */
+  /* margin: 10px 0; */
+}
+
+
+.authBlock1 article form button {
+  /* background: #3484cc; */
+  /* width: 100%;
+ color: #fff;  */
+  /* padding: 10px;
+  margin: 10px 0;
+  border-radius: 3px;
+  font-size: 15px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  border: none; */
+}
+.authBlock1 article form button:hover {
+  background: #555;
+  color: black
+}

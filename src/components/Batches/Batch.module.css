@@ -1,0 +1,13 @@
+.SelectedBatchList{
+    width: 100%;
+    
+}
+.BatchContainer{
+    width: 100%;
+    display: flex;
+}
+.BatchContainer aside{
+    flex-basis: 30%;
+}
+
+
